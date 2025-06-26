@@ -9,14 +9,13 @@
   margin: 20px auto;
   /* Center the content with some top/bottom margin */
   padding: 20px;
-  background-color: #fdfefe;
+  background-color: #FFFFFF;
   /* White background for page content */
   border-radius: 8px;
   /* Slightly rounded corners */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
   /* Subtle shadow */
 }
-
 .page-container h1 {
   color: #007BFF;
   /* Primary blue for headings */
@@ -320,7 +319,7 @@
   /* white-space: nowrap; Prevent content from wrapping inside cells */
   /* -webkit-overflow-scrolling: touch; For smooth scrolling on iOS */
   /* } */
-  */ .admissions-table thead,
+  .admissions-table thead,
   .admissions-table tbody,
   .admissions-table th,
   .admissions-table td,

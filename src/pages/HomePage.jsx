@@ -6,7 +6,7 @@ import Footer from "../components/Footer/Footer";
 const HomePage = () => {
   return (
 
-    <div>
+    <div className="container">
       <Header/>
       <div className="back-page">
     <div className="page-container" style={{ overflow: "auto" }}>
