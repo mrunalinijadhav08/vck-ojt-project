@@ -5,9 +5,6 @@ import Footer from "../components/Footer/Footer";
 // Add more image imports if needed
 const HomePage = () => {
   return (
-
-    <div className="container">
-      <Header/>
       <div className="back-page">
     <div className="page-container" style={{ overflow: "auto" }}>
       {/* Hero/Banner Section with Image */}
@@ -80,8 +77,6 @@ const HomePage = () => {
         </Link>{" "}
       </div>
     </div>
-    </div>
-    <Footer/>
     </div>
   );
 };
